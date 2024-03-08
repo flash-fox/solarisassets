@@ -1,0 +1,57 @@
+{
+  "mod_elements": [
+    {
+      "name": "TexturePlayerTab",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "texture_player_tab",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/solarisassets/models/item/texture_player_tab.json",
+          "src/main/java/net/mcreator/solarisassets/item/TexturePlayerTabItem.java"
+        ]
+      }
+    },
+    {
+      "name": "SolarisPlayermodel",
+      "type": "tab",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "solaris_playermodel",
+      "metadata": {
+        "files": []
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.solarisassets.texture_player_tab": "Texture Player Tab",
+      "item_group.solarisassets.solaris_playermodel": "Solaris Playermodel"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "solarisassets",
+    "modName": "SolarisAssets",
+    "version": "1.0.0",
+    "author": "pheuf, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.20.1",
+    "modElementsPackage": "net.mcreator.solarisassets",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202300452316
+}
